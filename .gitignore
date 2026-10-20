@@ -1,0 +1,10 @@
+# Artefatos de build (Arduino IDE / PlatformIO / Wokwi local)
+build/
+.pio/
+*.bin
+*.elf
+
+# Sistema
+Thumbs.db
+desktop.ini
+.DS_Store
