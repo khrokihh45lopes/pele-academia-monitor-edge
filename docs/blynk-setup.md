@@ -75,6 +75,6 @@ Para o professor visualizar o painel, convide-o para a sua organização no Blyn
 (**Users → Invite User**, com o e-mail dele) com um papel que permita ver o dispositivo.
 Coloque o link do dispositivo/painel no README, na seção de entrega.
 
-> O Auth Token fica visível em um projeto público do Wokwi e no GitHub. Para um protótipo
-> acadêmico isso é aceitável, mas depois da avaliação você pode gerar um token novo em
-> **Device Info → Auth Token → Regenerate**.
+> No GitHub o `sketch.ino` fica com os placeholders; o Auth Token real só existe no projeto
+> do Wokwi, que é público. Para um protótipo acadêmico isso é aceitável, mas depois da
+> avaliação você pode gerar um token novo em **Device Info → Auth Token → Regenerate**.

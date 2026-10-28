@@ -11,7 +11,7 @@ Se a nuvem cair, a borda continua funcionando normalmente.
 |---|---|
 | Repositório (código-fonte do ESP32) | https://github.com/khrokihh45lopes/pele-academia-monitor-edge |
 | Projeto no Wokwi | `https://wokwi.com/projects/SEU_PROJETO` |
-| Painel no Blynk | `https://blynk.cloud/dashboard/...` |
+| Painel no Blynk | Requer login na conta – veja a [captura do painel](#capturas-de-tela) |
 
 ---
 
@@ -178,13 +178,11 @@ continuaram rodando.
 
 ## Capturas de tela
 
-Salve as imagens em [`docs/img/`](docs/img/) com os nomes abaixo para que apareçam aqui.
-
 | Circuito no Wokwi | IHM – estado normal |
 |---|---|
 | ![Circuito no Wokwi](docs/img/wokwi-circuito.png) | ![IHM normal](docs/img/ihm-normal.png) |
 
-| IHM – alerta com a nuvem fora do ar | Painel Blynk |
+| IHM – alerta com a nuvem fora do ar | Painel Blynk após reconectar (alerta ocorrido offline contabilizado) |
 |---|---|
 | ![IHM alerta offline](docs/img/ihm-alerta-offline.png) | ![Painel Blynk](docs/img/blynk-painel.png) |
 
