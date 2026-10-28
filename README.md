@@ -5,6 +5,16 @@ da Pelé Academia. O ESP32 lê o sensor, decide sozinho quando há risco, aciona
 mostra tudo em um display OLED e envia os dados ao **Blynk** para acompanhamento remoto.
 Se a nuvem cair, a borda continua funcionando normalmente.
 
+## Integrantes
+
+| Nome | RM |
+|---|---|
+| Arthur Bergami Lucas | 570679 |
+| Davi Martins Herculano | 572699 |
+| Felipe Braga Terzella | 573529 |
+| Marcos Vinícios Corrêa dos Santos | 571080 |
+| Victor Lopes Tavares da Fonseca | 571315 |
+
 ## Links da entrega
 
 | Item | Link |
@@ -211,6 +221,7 @@ continuaram rodando.
 ```
 .
 ├── README.md              ← este documento (entrega)
+├── integrantes.txt        ← nomes e RMs do grupo
 ├── firmware/
 │   ├── sketch.ino         ← código-fonte do ESP32
 │   ├── diagram.json       ← circuito do Wokwi
