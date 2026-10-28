@@ -10,7 +10,7 @@ Se a nuvem cair, a borda continua funcionando normalmente.
 | Item | Link |
 |---|---|
 | Repositório (código-fonte do ESP32) | https://github.com/khrokihh45lopes/pele-academia-monitor-edge |
-| Projeto no Wokwi | `https://wokwi.com/projects/SEU_PROJETO` |
+| Projeto no Wokwi | https://wokwi.com/projects/479102198742488065 |
 | Painel no Blynk | Requer login na conta – veja a [captura do painel](#capturas-de-tela) |
 
 ---
